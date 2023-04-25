@@ -1,0 +1,27 @@
+body{
+  background-color: #333333;;
+  color: aliceblue;
+}
+
+label{
+  display: flex;
+  justify-content: left;
+  width: 300px;
+}
+
+.button{
+  margin: 30px;
+  padding: 10px;
+}
+
+.container{
+  width: 60%;
+}
+
+.content-form{
+  width: 900px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  flex-basis: 20px;
+}
